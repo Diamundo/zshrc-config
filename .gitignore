@@ -1,0 +1,6 @@
+# Custom gitignore to only include specific files
+
+*
+
+!.gitignore
+!.zshrc
